@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abhinavdev555@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/a6h1n0v](https://github.com/a6h1n0v)
+- 📄 Know about my experiences [[https://github.com/a6h1n0v]([https://www.linkedin.com/in/-abhinavdev/])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
